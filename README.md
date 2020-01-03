@@ -20,9 +20,11 @@ A.
 ```
 
 B.
-```- Positional elimination: a number must go in a particular
-     square because all the other empty squares in a given
-     row/col/blk are ruled out.
+
+```
+- Positional elimination: a number must go in a particular
+  square because all the other empty squares in a given
+  row/col/blk are ruled out.
 ```
 
 C
