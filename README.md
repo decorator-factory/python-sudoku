@@ -1,6 +1,15 @@
 # python-sudoku
 Sudoku solver in python
 
+## Usage
+
+See `in.txt`.
+Output is formatted nicely in HTML:
+
+![Output example](https://i.imgur.com/9iDBz8C.png)
+
+## Reasoning modes
+
 This solver uses three modes of reasoning that are used in `sgt-puzzles/solo`
 
 A.
