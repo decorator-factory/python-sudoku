@@ -3,6 +3,10 @@ Sudoku solver in python
 
 ## Usage
 
+```
+python3 main.py
+```
+
 See `in.txt`.
 Output is formatted nicely in HTML:
 
